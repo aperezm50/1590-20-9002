@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="341.334" viewBox="0 0 512 341.334">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.095" y1="0.119" x2="0.984" y2="0.935" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g id="tecnologia" transform="translate(-730 -253)">
+    <g id="informatica" transform="translate(730 167.667)">
+      <g id="Grupo_1" data-name="Grupo 1">
+        <path id="Trazado_1" data-name="Trazado 1" d="M501.333,362.667h-32V128a42.709,42.709,0,0,0-42.667-42.667H85.333A42.709,42.709,0,0,0,42.666,128V362.667h-32A10.66,10.66,0,0,0,0,373.333V384a42.709,42.709,0,0,0,42.667,42.667H469.334A42.709,42.709,0,0,0,512,384V373.333A10.66,10.66,0,0,0,501.333,362.667ZM64,128a21.361,21.361,0,0,1,21.333-21.333H426.666A21.361,21.361,0,0,1,448,128V362.667H64ZM469.333,405.333H42.667A21.361,21.361,0,0,1,21.334,384H198.25l7.542,7.542a10.659,10.659,0,0,0,7.542,3.125h85.333a10.66,10.66,0,0,0,7.542-3.125L313.75,384H490.667A21.361,21.361,0,0,1,469.333,405.333Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_4" data-name="Grupo 4">
+      <g id="Grupo_2" data-name="Grupo 2">
+        <path id="Trazado_2" data-name="Trazado 2" d="M904.07,353.411,862.163,403.53l41.907,41.907" transform="translate(-5 9)" fill="none" stroke="#707070" stroke-width="4"/>
+      </g>
+      <g id="Grupo_3" data-name="Grupo 3" transform="translate(1075.163 362.411)">
+        <path id="Trazado_2-2" data-name="Trazado 2" d="M862.163,353.411,904.07,403.53l-41.907,41.907" transform="translate(-862.163 -353.411)" fill="none" stroke="#707070" stroke-width="4"/>
+      </g>
+      <text id="_johan" data-name="@johan" transform="translate(910 420)" fill="#fff" font-size="48" font-family="Lato-Regular, Lato"><tspan x="0" y="0">@johan</tspan></text>
+    </g>
+  </g>
+</svg>
